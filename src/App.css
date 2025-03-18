@@ -1,0 +1,11 @@
+.cont{
+  margin:auto;
+  padding-top: 30px;
+  border: 2px solid;
+  width: 50%;
+  min-height: 80vh;
+  background: linear-gradient(135deg,rgb(147, 40, 40),rgb(26, 0, 0),rgb(57, 17, 17));
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  flex-direction: column;
+  border-radius: 20px;
+}
